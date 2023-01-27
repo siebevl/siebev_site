@@ -21,9 +21,9 @@
 title: Siebe Vanlommel
 email: siebe@siebev.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nothing here yet.
+  Nothing here yet. This website is under construction. Perhaps check back later.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "siebev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "siebev_site.siebevl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: siebevl
 
 # Build settings
