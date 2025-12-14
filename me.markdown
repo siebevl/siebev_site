@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me
+title: me
 permalink: /me/
 ---
 
