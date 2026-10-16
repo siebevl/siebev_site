@@ -1,9 +1,10 @@
 ---
 layout: page
-title: archive
-permalink: /archive/
+title: quarch
+permalink: /quarch/
 ---
 
+This is the Quiz Archive, or *quarch*. Sorry if you were expecting some cool new physics thing. 
 Below, I collect results from pub/school/.. quizes.
 
 | Date | Quiz Title | Year | Standing | Note |
