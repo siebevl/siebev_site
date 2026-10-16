@@ -4,4 +4,4 @@ title: cv
 permalink: /cv/
 ---
 
-Interested parties may find a CV [here](../VanlommelSiebe_CV_basic.pdf).
+Interested parties may find a CV [here](../VanlommelSiebe_CV_EN.pdf).
