@@ -23,12 +23,12 @@ permalink: /birdlog/
   <!-- Automatic Badge Counter -->
   <div style="background: #f8f9fa; border: 1px solid #e1e4e8; padding: 10px 14px; border-radius: 8px; font-size: 0.85rem; line-height: 1.5; white-space: nowrap; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
     <div>🐦‍⬛ Species blogged: <strong>{{ bird_count }}</strong></div>
-    <div>🦉 Total species seen: <a href="https://ebird.org/profile/NjA3NDU4Nw" target="_blank" rel="noopener noreferrer" style="font-weight: bold; color: #2e7d32; text-decoration: none;">145 ↗</a></div>
+    <div>🦉 Total species seen: <a href="https://ebird.org/profile/NjA3NDU4Nw" target="_blank" rel="noopener noreferrer" style="font-weight: bold; color: #2e7d32; text-decoration: none;">147 ↗</a></div>
   </div>
 </div>
 
 <!-- Intro Text (Sits underneath the title/badge row) -->
-<p style="margin: 0 0 25px 0; color: #555;">This is the birdlog, or <em>blog</em>, for short (yes I definitely came up with that hip new word). Any image posted here is licensed under CC-BY-SA 4.0 ©birdlog.</p>
+<p style="margin: 0 0 25px 0; color: #555;">This is the birdlog, or <em>blog</em>, for short (yes I definitely came up with that hip new word). Unless stated otherwise, any image or sound posted here is by me and is licensed under CC-BY-SA 4.0 ©birdlog.</p>
 
 {% assign total_posts = site.posts | size %}
 

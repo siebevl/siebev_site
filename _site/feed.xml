@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-10-17T09:03:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Siebe Vanlommel</title><subtitle>Not much here yet. This website is under perpetual construction. Perhaps check back later.</subtitle><entry><title type="html">Evening with barn owl pellets</title><link href="http://localhost:4000/2026/10/17/evening.html" rel="alternate" type="text/html" title="Evening with barn owl pellets" /><published>2026-10-17T00:00:00+02:00</published><updated>2026-10-17T00:00:00+02:00</updated><id>http://localhost:4000/2026/10/17/evening</id><content type="html" xml:base="http://localhost:4000/2026/10/17/evening.html">&lt;p&gt;Yesterday, as one does on a typical Friday evening, the season of pellet dissecting with the &lt;a href=&quot;https://www.kerkuilwerkgroepvlaanderen.be/&quot;&gt;Kerkuilwerkgroep&lt;/a&gt; and Natuurpunt has begun with a barn owl from 2025 out of the Bourgoyen. Many more pellets than we can handle, but I manage to finish five, with the short-tailed field vole (aardmuis) spanning the crown of 4 finds (example in first picture). There’s also white-toothed shrew (huisspitsmuis), two common pine voles (ondergrondse woelmuis), common shrew (gewone bosspitsmuis) and a long-tailed field mouse (gewone bosmuis).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-10-20T08:14:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Siebe Vanlommel</title><subtitle>Not much here yet. This website is under perpetual construction. Perhaps check back later.</subtitle><entry><title type="html">Early birding</title><link href="http://localhost:4000/2026/10/19/morning.html" rel="alternate" type="text/html" title="Early birding" /><published>2026-10-19T00:00:00+02:00</published><updated>2026-10-19T00:00:00+02:00</updated><id>http://localhost:4000/2026/10/19/morning</id><content type="html" xml:base="http://localhost:4000/2026/10/19/morning.html">&lt;p&gt;The early bird has to drive to Antwerp on a Sunday morning, but the even earlier birder manages to get some birding done even before that. No groundbreaking observations but a very photogenic wren and a kestrel being harassed by two crows. The shot of the kestrel illustrates that other inconvenient truth a friendly birder holding a 600 mm lens told me recently: you can never have enough millimeters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/winterkoning.jpeg&quot; alt=&quot;Eurasian wren posing on a Sunday morning in Bourgoyen.&quot; /&gt;
+&lt;em&gt;Eurasian wren posing on a Sunday morning in Bourgoyen on 18 October 2026.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align: left; clear: both;&quot;&gt;
+  &lt;img src=&quot;/media/kestrel-spread.jpeg&quot; alt=&quot;Centered Image&quot; style=&quot;max-width: 800px; height: auto;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Common kestrel landing in a field near Valkenhuis.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday mornings are extremely quiet once you get out in the fields compared to Sundays. Without human distractions, I manage to spot a female hen harrier flying north over the Oude Kale valley. Unlike what the Dutch name would have you believe (blauwe kiekendief), the female harrier is brown and not blue, with a distinctive white rump.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/blauwe-kiekendief.jpeg&quot; alt=&quot;Female hen harrier flying over Merendree on 20 October 2026.&quot; /&gt;
+&lt;em&gt;Female hen harrier flying over Merendree on 20 October 2026.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Along the track I hear (multiple?) lesser spotted woodpeckers calling. I can’t find them, so the picture provided with the audio bite is by Yves Hoebeke from waarnemingen.be. Unlike the far more common greater spotted woodpecker, the lesser does not have a red lower belly.&lt;/p&gt;
+
+&lt;div class=&quot;media-row&quot;&gt;
+  &lt;div class=&quot;media-image-col&quot;&gt;
+    &lt;img src=&quot;/media/kleine-bonte-specht-yves-hoebeke.jpeg&quot; alt=&quot;Kleine bonte specht by Yves Hoebeke&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;media-audio-col&quot;&gt;
+    &lt;audio controls=&quot;&quot; preload=&quot;metadata&quot;&gt;
+      &lt;source src=&quot;/media/2026-10-19-Deinze-kleine-bonte.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+      Your browser does not support the audio element.
+    &lt;/audio&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  .media-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 0px 0;
+    flex-wrap: wrap;
+  }
+  .media-image-col img {
+    max-width: 450px;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .media-audio-col audio {
+    display: block;
+    width: 200px; /* Give it a fixed minimum rendering width */
+  }
+&lt;/style&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://waarnemingen.be/observation/421785742/&quot;&gt;Kleine bonte specht by Yves Hoebeke&lt;/a&gt; in Harelbeke on 22 September 2026. Licensed under CC BY-NC-ND 4.0.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;equal-images-row&quot;&gt;
+  &lt;!-- Picture 1 --&gt;
+  &lt;div class=&quot;image-box&quot;&gt;
+    &lt;a href=&quot;#img1&quot; onclick=&quot;openModal(&apos;modal1&apos;); return false;&quot;&gt;
+      &lt;img src=&quot;/media/roodborst.jpeg&quot; alt=&quot;First image&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Picture 2 --&gt;
+  &lt;div class=&quot;image-box&quot;&gt;
+    &lt;a href=&quot;#img2&quot; onclick=&quot;openModal(&apos;modal2&apos;); return false;&quot;&gt;
+      &lt;img src=&quot;/media/spreeuw.jpeg&quot; alt=&quot;Second image&quot; /&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- Modal 1 --&gt;
+&lt;div id=&quot;modal1&quot; class=&quot;image-modal&quot; onclick=&quot;closeModal(&apos;modal1&apos;)&quot;&gt;
+  &lt;span class=&quot;close-btn&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;img src=&quot;/media/roodborst.jpeg&quot; alt=&quot;First image enlarged&quot; /&gt;
+&lt;/div&gt;
+
+&lt;!-- Modal 2 --&gt;
+&lt;div id=&quot;modal2&quot; class=&quot;image-modal&quot; onclick=&quot;closeModal(&apos;modal2&apos;)&quot;&gt;
+  &lt;span class=&quot;close-btn&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;img src=&quot;/media/spreeuw.jpeg&quot; alt=&quot;Second image enlarged&quot; /&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  .equal-images-row {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+  }
+  .image-box {
+    flex: 1;
+    min-width: 250px;
+  }
+  .image-box img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .image-box img:hover {
+    opacity: 0.9;
+  }
+
+  /* Modal Styles */
+  .image-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    align-items: center;
+    justify-content: center;
+  }
+  .image-modal img {
+    max-width: 90%;
+    max-height: 90vh;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+  }
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+  function openModal(modalId) {
+    document.getElementById(modalId).style.display = &apos;flex&apos;;
+  }
+  function closeModal(modalId) {
+    document.getElementById(modalId).style.display = &apos;none&apos;;
+  }
+&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;European robin and common starling in Merendree on 20 October 2026.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The early bird has to drive to Antwerp on a Sunday morning, but the even earlier birder manages to get some birding done even before that. No groundbreaking observations but a very photogenic wren and a kestrel being harassed by two crows. The shot of the kestrel illustrates that other inconvenient truth a friendly birder holding a 600 mm lens told me recently: you can never have enough millimeters.</summary></entry><entry><title type="html">Evening with barn owl pellets</title><link href="http://localhost:4000/2026/10/17/evening.html" rel="alternate" type="text/html" title="Evening with barn owl pellets" /><published>2026-10-17T00:00:00+02:00</published><updated>2026-10-17T00:00:00+02:00</updated><id>http://localhost:4000/2026/10/17/evening</id><content type="html" xml:base="http://localhost:4000/2026/10/17/evening.html">&lt;p&gt;Yesterday, as one does on a typical Friday evening, the season of pellet dissecting with the &lt;a href=&quot;https://www.kerkuilwerkgroepvlaanderen.be/&quot;&gt;Kerkuilwerkgroep&lt;/a&gt; and Natuurpunt has begun with a barn owl from 2025 out of the Bourgoyen. Many more pellets than we can handle, but I manage to finish five, with the short-tailed field vole (aardmuis) spanning the crown of 4 finds (example in first picture). There’s also white-toothed shrew (huisspitsmuis), two common pine voles (ondergrondse woelmuis), common shrew (gewone bosspitsmuis) and a long-tailed field mouse (gewone bosmuis).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/media/aardmuis.jpeg&quot; alt=&quot;Skull and lower cheekbones of short-tailed field vole.&quot; /&gt;
 &lt;em&gt;Short-tailed field vole out of barn owl pellet from Bourgoyen.&lt;/em&gt;&lt;/p&gt;
