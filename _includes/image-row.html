@@ -1,7 +1,7 @@
 {% assign images = include.images | split: "," %}
 {% assign titles = include.titles | split: "|" %}
 {% assign total = images.size %}
-{% assign random_id = site.time | date: "%s" | random %} 
+{% assign first_img_slug = images.first | strip | slugify %}
 
 <!-- Grid Row -->
 <div class="equal-images-row">
@@ -9,7 +9,7 @@
     {% assign i = forloop.index0 %}
     {% assign is_last = forloop.last %}
     {% assign remainder = total | modulo: 2 %}
-    {% assign modal_id = "modal_" | append: random_id | append: "_" | append: forloop.index %}
+    {% assign modal_id = "modal_" | append: first_img_slug | append: "_" | append: forloop.index %}
     
     <div class="image-box" style="{% if total == 1 or remainder == 1 and is_last %}grid-column: span 2; width: 60%; justify-self: center;{% endif %}">
       <a href="#{{ modal_id }}" onclick="openModal('{{ modal_id }}'); return false;">
@@ -25,7 +25,7 @@
 <!-- Dynamic Modals with Captions -->
 {% for img in images %}
   {% assign i = forloop.index0 %}
-  {% assign modal_id = "modal_" | append: random_id | append: "_" | append: forloop.index %}
+  {% assign modal_id = "modal_" | append: first_img_slug | append: "_" | append: forloop.index %}
   
   <div id="{{ modal_id }}" class="image-modal" onclick="closeModal('{{ modal_id }}')">
     <span class="close-btn">&times;</span>
