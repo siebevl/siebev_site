@@ -935,4 +935,88 @@
   &lt;img src=&quot;/media/roodborst.jpeg&quot; alt=&quot;First image enlarged&quot; /&gt;
 &lt;/div&gt;
 
-&lt;!-- Modal 2 
+&lt;!-- Modal 2 --&gt;
+&lt;div id=&quot;modal2&quot; class=&quot;image-modal&quot; onclick=&quot;closeModal(&apos;modal2&apos;)&quot;&gt;
+  &lt;span class=&quot;close-btn&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;img src=&quot;/media/spreeuw.jpeg&quot; alt=&quot;Second image enlarged&quot; /&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  .equal-images-row {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+  }
+  .image-box {
+    flex: 1;
+    min-width: 250px;
+  }
+  .image-box img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .image-box img:hover {
+    opacity: 0.9;
+  }
+
+  /* Modal Styles */
+  .image-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    align-items: center;
+    justify-content: center;
+  }
+  .image-modal img {
+    max-width: 90%;
+    max-height: 90vh;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+  }
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+  function openModal(modalId) {
+    document.getElementById(modalId).style.display = &apos;flex&apos;;
+  }
+  function closeModal(modalId) {
+    document.getElementById(modalId).style.display = &apos;none&apos;;
+  }
+&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;European robin and common starling in Merendree on 20 October 2026.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The early bird has to drive to Antwerp on a Sunday morning, but the even earlier birder manages to get some birding done even before that. No groundbreaking observations but a very photogenic wren and a kestrel being harassed by two crows. The shot of the kestrel illustrates that other inconvenient truth a friendly birder holding a 600 mm lens told me recently: you can never have enough millimeters.</summary></entry><entry><title type="html">Evening with barn owl pellets</title><link href="http://localhost:4000/2026/10/17/evening.html" rel="alternate" type="text/html" title="Evening with barn owl pellets" /><published>2026-10-17T00:00:00+02:00</published><updated>2026-10-17T00:00:00+02:00</updated><id>http://localhost:4000/2026/10/17/evening</id><content type="html" xml:base="http://localhost:4000/2026/10/17/evening.html">&lt;p&gt;Yesterday, as one does on a typical Friday evening, the season of pellet dissecting with the &lt;a href=&quot;https://www.kerkuilwerkgroepvlaanderen.be/&quot;&gt;Kerkuilwerkgroep&lt;/a&gt; and Natuurpunt has begun with a barn owl from 2025 out of the Bourgoyen. Many more pellets than we can handle, but I manage to finish five, with the short-tailed field vole (aardmuis) spanning the crown of 4 finds (example in first picture). There’s also white-toothed shrew (huisspitsmuis), two common pine voles (ondergrondse woelmuis), common shrew (gewone bosspitsmuis) and a long-tailed field mouse (gewone bosmuis).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/aardmuis.jpeg&quot; alt=&quot;Skull and lower cheekbones of short-tailed field vole.&quot; /&gt;
+&lt;em&gt;Short-tailed field vole out of barn owl pellet from Bourgoyen.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All determinations are checked by Johan, Norbert or Rik of the Kerkuilwerkgroep and the data is logged and used to keep track of the diet of barn owls and populations of mouse species across Western Europe. Pellet dissecting season runs from October until March, so this probably isn’t the last dead mouse I’ll post here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/braakbal-overzicht.jpeg&quot; alt=&quot;Overview of contents of one pellet.&quot; /&gt;
+&lt;em&gt;One pellet can contain one or multiple victims, in this case three.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Yesterday, as one does on a typical Friday evening, the season of pellet dissecting with the Kerkuilwerkgroep and Natuurpunt has begun with a barn owl from 2025 out of the Bourgoyen. Many more pellets than we can handle, but I manage to finish five, with the short-tailed field vole (aardmuis) spanning the crown of 4 finds (example in first picture). There’s also white-toothed shrew (huisspitsmuis), two common pine voles (ondergrondse woelmuis), common shrew (gewone bosspitsmuis) and a long-tailed field mouse (gewone bosmuis).</summary></entry><entry><title type="html">Morning in Vinderhoute and Bourgoyen</title><link href="http://localhost:4000/2026/10/16/morning.html" rel="alternate" type="text/html" title="Morning in Vinderhoute and Bourgoyen" /><published>2026-10-16T00:00:00+02:00</published><updated>2026-10-16T00:00:00+02:00</updated><id>http://localhost:4000/2026/10/16/morning</id><content type="html" xml:base="http://localhost:4000/2026/10/16/morning.html">&lt;p&gt;Slow birding morning, with many birds heard but left unseen (annoying close calls: bramling, common linnet and redwing). Nice encounter with three lovely roe deer, though. Also a soaring sparrowhawk over De Afgraving (not pictured, instead, look at the cute long-tailed tit).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/roe-deer.jpeg&quot; alt=&quot;Two roe deer.&quot; /&gt;
+&lt;em&gt;Two roe deer near Vinderhoutse bossen on 16 October 2026.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/long-tailed-tit.jpeg&quot; alt=&quot;One long-tailed tit.&quot; /&gt;
+&lt;em&gt;One long-tailed tit near De Afgraving on 16 October 2026.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Slow birding morning, with many birds heard but left unseen (annoying close calls: bramling, common linnet and redwing). Nice encounter with three lovely roe deer, though. Also a soaring sparrowhawk over De Afgraving (not pictured, instead, look at the cute long-tailed tit).</summary></entry><entry><title type="html">Birds wing it too</title><link href="http://localhost:4000/2026/10/11/hi.html" rel="alternate" type="text/html" title="Birds wing it too" /><published>2026-10-11T00:00:00+02:00</published><updated>2026-10-11T00:00:00+02:00</updated><id>http://localhost:4000/2026/10/11/hi</id><content type="html" xml:base="http://localhost:4000/2026/10/11/hi.html">&lt;p&gt;I aim to drop some good birds in this blog if I remember that I created it. Let the &lt;em&gt;blog&lt;/em&gt; take flight, like this red-breasted nuthatch (picture courtesy of my wonderful wife)!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/nuthatch.jpeg&quot; alt=&quot;A red-breasted nuthatch in Beffe (Rendeux), LX, Belgium on 11 October 2026.&quot; /&gt;
+&lt;em&gt;A red-breasted nuthatch in Beffe (Rendeux), LX, Belgium on 11 October 2026.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I aim to drop some good birds in this blog if I remember that I created it. Let the blog take flight, like this red-breasted nuthatch (picture courtesy of my wonderful wife)!</summary></entry></feed>
